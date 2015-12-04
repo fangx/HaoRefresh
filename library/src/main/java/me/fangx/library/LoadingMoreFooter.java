@@ -7,14 +7,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 public class LoadingMoreFooter extends LinearLayout {
 
+    private Context context;
     private LinearLayout loading_view_layout;
     private LinearLayout end_layout;
 
     public LoadingMoreFooter(Context context) {
         super(context);
+        this.context = context;
         initView(context);
     }
 
@@ -37,6 +40,15 @@ public class LoadingMoreFooter extends LinearLayout {
         loading_view_layout = (LinearLayout) view.findViewById(R.id.loading_view_layout);
         end_layout = (LinearLayout) view.findViewById(R.id.end_layout);
 
+
+        TextView textView1 = new TextView(context);
+        textView1.setText("加载中...");
+        addFootLoadingView(textView1);
+
+        TextView textView = new TextView(context);
+        textView.setText("已经到底啦~");
+        addFootEndView(textView);
+
         addView(view);
     }
 
@@ -54,27 +66,6 @@ public class LoadingMoreFooter extends LinearLayout {
     }
 
 
-//    //初始化底部布局
-//    public void footerInit() {
-//        setVisibility(GONE);
-//        loading_view_layout.setVisibility(GONE);
-//        end_layout.setVisibility(GONE);
-//    }
-//
-//    //加载更多
-//    public void loadmore() {
-//        setVisibility(VISIBLE);
-//        loading_view_layout.setVisibility(VISIBLE);
-//        end_layout.setVisibility(GONE);
-//    }
-//
-//    //加载更多完成
-//    public void loadMoreComplete() {
-//        setVisibility(VISIBLE);
-//        loading_view_layout.setVisibility(GONE);
-//        end_layout.setVisibility(GONE);
-//    }
-//
     //设置已经没有更多数据
     public void setEnd() {
         setVisibility(VISIBLE);
