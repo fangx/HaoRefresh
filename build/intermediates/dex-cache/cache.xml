@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fangxiao/Work/GIT/NB/HaoRefresh/app/build/intermediates/exploded-aar/HaoRefresh/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="203aaed19887677d7e46a80cc2095c173cdc6acf">
+        <dex dex="/Users/fangxiao/Work/GIT/NB/HaoRefresh/app/build/intermediates/pre-dexed/debug/classes-d1dbfc9810fb5b4f4a4052a4d2a23659bdcfb156.jar" />
+    </item>
+
+</items>
