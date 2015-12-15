@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 public class LoadingMoreFooter extends LinearLayout {
@@ -41,9 +42,7 @@ public class LoadingMoreFooter extends LinearLayout {
         end_layout = (LinearLayout) view.findViewById(R.id.end_layout);
 
 
-        TextView textView1 = new TextView(context);
-        textView1.setText("加载中...");
-        addFootLoadingView(textView1);
+        addFootLoadingView(new ProgressBar(context, null, android.R.attr.progressBarStyle));
 
         TextView textView = new TextView(context);
         textView.setText("已经到底啦~");
