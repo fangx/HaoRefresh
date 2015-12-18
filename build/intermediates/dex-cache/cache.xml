@@ -2,6 +2,27 @@
 <items version="2" >
 
     <item
+        jar="/Users/fangxiao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/library-2.4.0_866edd69d75bfe1c81392460bb9d2274c1461e4d.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/HaoRefresh/haorefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23deee33578fa2acfc7a547e5e3c93dce3bab273">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/HaoRefresh-haorefresh-unspecified_5dec53467fde0467d69d2aefe22e5dc42a93f5c9.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/HaoRefreshDemo/haorefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55679d59512ba8e646ab2cd903112c8a61c98106">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/HaoRefreshDemo-haorefresh-unspecified_fd03a1d0d49009cbe9ce26008f844be8ddb4fa70.jar" />
+    </item>
+    <item
         jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -9,11 +30,11 @@
         <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.1_ad630aa6369edd0c2114d1ed3a223c04be3d7311.jar" />
     </item>
     <item
-        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_79cd0eae6d3524d479f88e78603175ab7324ece5.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6ec42be034a345e963ce1c54382f441755dce88e.jar" />
     </item>
     <item
         jar="/Users/fangxiao/Work/WorkTools/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
@@ -23,25 +44,18 @@
         <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_036d452b7c8ab21cab04b2737855258bde0ee25a.jar" />
     </item>
     <item
-        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_ebe13526352f9041711ee807a8b1e6ade527cb86.jar" />
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_5369db63676e1d6bceb016b0448ac403379f3125.jar" />
     </item>
     <item
-        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/HaoRefreshDemo/haorefresh/unspecified/jars/classes.jar"
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="a26b5dd0ed5661f805d2ff3f7cbff24ddac12301">
-        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/HaoRefreshDemo-haorefresh-unspecified_fd03a1d0d49009cbe9ce26008f844be8ddb4fa70.jar" />
-    </item>
-    <item
-        jar="/Users/fangxiao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/library-2.4.0_866edd69d75bfe1c81392460bb9d2274c1461e4d.jar" />
+        sha1="e47ca30ca7642c5ab99b7ce9e0bf36ae98249279">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/instant-run_3d2ca9c68929f40d3bdcb9effe6bd0c3a6eedf44.jar" />
     </item>
     <item
         jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
@@ -51,11 +65,67 @@
         <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_17e3fa27a44a0294eedf03090d04c5fa9182a341.jar" />
     </item>
     <item
-        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6ec42be034a345e963ce1c54382f441755dce88e.jar" />
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_1310dd64b6084e08ee611d64b914915953c8c70f.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cec545950e2befa440b25d22fb348f9f777fecd4">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/instant-run_9d8b74d3bde9b7b8fbba1e31eae32570931c1580.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_5fc7b8285f5f3bd833ca6b578f4ed74446102315.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_79cd0eae6d3524d479f88e78603175ab7324ece5.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_84a0657333b5914c60914cd43eeb4cef9b5d92dc.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4e0c6279b6ab971361773193943fe069efe7dee">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/classes_09c675578587c2afa2bab99e263484ff4ec208e8.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/fangxiao/Work/GIT/gitdemowork/HaoRefreshDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_ebe13526352f9041711ee807a8b1e6ade527cb86.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c27e0c157690b21996c21aeae18a28d95183fe97">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/classes_34d25be68f26d13e1b43404630bde38b040ba862.jar" />
+    </item>
+    <item
+        jar="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4968500e276d051b8ed8135f1a0254120f6c600d">
+        <dex dex="/Users/fangxiao/Work/GIT/GitWork/HaoRefresh/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.1_82573488c42f3c5f2846cd1c1b9d8b35402ea50a.jar" />
     </item>
 
 </items>
