@@ -3,13 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="me.fangx.haorefresh.MainActivity">
+    tools:context="me.fangx.haorefreshdemo.MainActivity">
 
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/swiperefresh"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <me.fangx.library.HaoRecyclerView
+        <me.fangx.haorefresh.HaoRecyclerView
             android:id="@+id/hao_recycleview"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
