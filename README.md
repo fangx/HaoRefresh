@@ -2,6 +2,12 @@
 仿知乎列表效果（含下拉刷新加载更多）
 
 ##HaoRecyclerView使用说明
+
+###已上传jcenter
+引入方式如下
+compile 'com.github.fangx:haorefresh:1.0'
+
+
 ###控件支持各种扩展
 1. 可自己集成下拉刷新效果,可用系统的下拉组件或者参考[下拉刷新效果](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 2. 可自定义底部加载更多效果，setFootLoadingView(view); [加载中效果](https://github.com/81813780/AVLoadingIndicatorView)
