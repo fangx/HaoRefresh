@@ -4,8 +4,7 @@
 ##HaoRecyclerView使用说明
 
 ###已上传jcenter
-引入方式如下
-compile 'com.github.fangx:haorefresh:1.0'
+引入方式：compile 'com.github.fangx:haorefresh:1.0'
 
 
 ###控件支持各种扩展
