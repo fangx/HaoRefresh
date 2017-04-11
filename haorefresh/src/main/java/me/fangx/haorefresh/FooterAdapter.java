@@ -33,11 +33,16 @@ public class FooterAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
         RecyclerView.LayoutManager manager = recyclerView.getLayoutManager();
         if (manager instanceof GridLayoutManager) {
             final GridLayoutManager gridManager = ((GridLayoutManager) manager);
+            final GridLayoutManager.SpanSizeLookup originLookup = gridManager.getSpanSizeLookup();
             gridManager.setSpanSizeLookup(new GridLayoutManager.SpanSizeLookup() {
                 @Override
                 public int getSpanSize(int position) {
-                    return (getItemViewType(position) == RecyclerView.INVALID_TYPE || getItemViewType(position) == RecyclerView.INVALID_TYPE - 1)
-                            ? gridManager.getSpanCount() : 1;
+                    if(getItemViewType(position) == RecyclerView.INVALID_TYPE || getItemViewType(position) == RecyclerView.INVALID_TYPE - 1)
+                        return gridManager.getSpanCount();
+                    else if(originLookup != null)
+                        return originLookup.getSpanSize(position);
+                    else
+                        return 1;
                 }
             });
         }
